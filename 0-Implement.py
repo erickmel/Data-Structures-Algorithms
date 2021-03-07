@@ -41,3 +41,5 @@ print(myArr)
 
 myArr.pop()
 print(myArr)
+
+print("Test")
